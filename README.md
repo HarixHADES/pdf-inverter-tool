@@ -33,9 +33,8 @@ pip install -r requirements.txt
 1.Run the script:
 
 bash
-Copy
-Edit
 python invert_gui.py
+
 2.Click “Choose up to 5 PDFs” and select your files.
 
 3.Click “Generate Inverted PDFs”.
