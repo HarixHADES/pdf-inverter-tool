@@ -28,7 +28,9 @@ A simple Python GUI tool that allows users to invert black and white in up to 5 
    git clone https://github.com/HarixHADES/pdf-inverter-tool.git
    cd pdf-inverter-tool
 2.Install dependencies:
+ ```bash
 pip install -r requirements.txt
+
 ## 🚀 How to Use
 1.Run the script:
 
