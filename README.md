@@ -1,4 +1,4 @@
-# 🧾 PDF Inverter Tool (Black ↔ White)
+# 🧾 PDF Inverter Tool (Colour ↔ Black & White)
 
 A simple Python GUI tool that allows users to invert black and white in up to 5 PDF files. The processed PDFs are saved in a user-selected output folder. Built using `tkinter`, `pdf2image`, and `Pillow`.
 
